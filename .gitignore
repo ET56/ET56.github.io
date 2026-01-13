@@ -1,0 +1,13 @@
+# Archivos de sistema
+.DS_Store
+Thumbs.db
+
+# Editores/IDE
+.vscode/
+.idea/
+*.log
+
+# Construcción (si luego usas herramientas)
+node_modules/
+dist/
+.cache/
